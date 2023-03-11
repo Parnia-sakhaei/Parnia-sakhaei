@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Parnia and currently final student at Help University in Kuala Lumpur
+- 👋 Hello, I'm Parnia and currently final year student at Help University in Kuala Lumpur
 - ✨ I'm obsessed with Python and R programmig
 - 👀 Besides, I'm passionate about data science and medical technology
 - 
